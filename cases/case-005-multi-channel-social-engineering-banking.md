@@ -48,6 +48,7 @@ Key Weakness Exploited
 The attack does not break authentication.
 
 Instead, it abuses:
+
 •trusted communication channel
 
 •legitimate infrastructure
